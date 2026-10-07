@@ -1,0 +1,18 @@
+{
+  "name": "taskavel",
+  "version": "0.1.0",
+  "description": "Connect your projects, tasks, boards, comments, milestones, and time tracking to Cursor.",
+  "homepage": "https://taskavel.com",
+  "keywords": [
+    "task-management",
+    "project-management",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json",
+  "author": {
+    "name": "Coding Wisely"
+  },
+  "repository": "https://github.com/coding-wisely/avel-cursor-plugins",
+  "license": "MIT"
+}

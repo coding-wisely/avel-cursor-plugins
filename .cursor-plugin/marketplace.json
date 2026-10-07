@@ -1,0 +1,19 @@
+{
+  "name": "avel-plugins",
+  "owner": {
+    "name": "Coding Wisely"
+  },
+  "metadata": {
+    "description": "Postavel and Taskavel hosted MCP integrations for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "postavel",
+      "source": "postavel"
+    },
+    {
+      "name": "taskavel",
+      "source": "taskavel"
+    }
+  ]
+}

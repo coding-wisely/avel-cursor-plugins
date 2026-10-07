@@ -1,0 +1,18 @@
+{
+  "name": "postavel",
+  "version": "0.1.0",
+  "description": "Connect your social media workspaces, brands, drafts, media, and publishing workflows to Cursor.",
+  "homepage": "https://postavel.com",
+  "keywords": [
+    "social-media",
+    "publishing",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json",
+  "author": {
+    "name": "Coding Wisely"
+  },
+  "repository": "https://github.com/coding-wisely/avel-cursor-plugins",
+  "license": "MIT"
+}
