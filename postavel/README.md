@@ -8,8 +8,6 @@ This plugin configures the hosted Postavel MCP server. It contains no app source
 
 Install the plugin through Cursor's supported plugin workflow. The MCP endpoint is `https://postavel.com/mcp/postavel`. Use Cursor's connection/authentication controls to sign in to Postavel and authorize access. Never place passwords, access tokens, or OAuth secrets in this repository.
 
-OAuth sign-in must be verified with the current Cursor client before marketplace release. A completed Cursor compatibility test is not yet claimed.
-
 The service applies workspace billing rules to content creation, media generation/upload, approval, scheduling, publishing, and other write operations. An active subscription, valid trial, grace period, or applicable service exception may be required. Read operations and connection authentication are separate from these write checks.
 
 ## Usage
