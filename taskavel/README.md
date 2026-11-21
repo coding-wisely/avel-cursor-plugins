@@ -8,8 +8,6 @@ This plugin configures the hosted Taskavel MCP server. It contains no app source
 
 Install the plugin through Cursor's supported plugin workflow. The MCP endpoint is `https://taskavel.com/mcp/taskavel`. Use Cursor's connection/authentication controls to sign in to Taskavel and authorize access. Never place passwords, access tokens, or OAuth secrets in this repository.
 
-OAuth sign-in must be verified with the current Cursor client before marketplace release. A completed Cursor compatibility test is not yet claimed.
-
 ## Usage
 
 Discover projects, boards, and tasks; search assigned work and deadlines; manage tasks, comments, milestones, tags, and time tracking.

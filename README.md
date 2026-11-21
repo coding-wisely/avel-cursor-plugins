@@ -9,7 +9,7 @@ Hosted MCP connections for [Postavel](postavel/README.md) and [Taskavel](taskave
 
 The repository uses Cursor's [multi-plugin format](https://cursor.com/docs/reference/plugins), with `.cursor-plugin/marketplace.json` at the root and a separate manifest and MCP configuration in each product directory. Install the desired plugin using Cursor's supported plugin workflow and connect the relevant account. Read the product README for authentication and service requirements.
 
-Marketplace listing is subject to Cursor review. End-to-end Cursor authentication compatibility testing is pending.
+Marketplace listing is subject to Cursor review.
 
 ## Contents and data
 
